@@ -1,0 +1,58 @@
+{
+  "Items": [
+    {
+      "id": 1,
+      "name": "5 Dexterity Vest",
+      "sellIn": 10,
+      "quality": 20
+    },
+    {
+      "id": 2,
+      "name": "Aged Brie",
+      "sellI": 2,
+      "quality": 0
+    },
+    {
+      "id": 3,
+      "name": "Elixir of the Mongoose",
+      "sellIn": 5,
+      "quality": 7
+    },
+    {
+      "id": 4,
+      "name": "Sulfuras, Hand of Ragnaros",
+      "sellIn": 0,
+      "quality": 80
+    },
+    {
+      "id": 5,
+      "name": "Sulfuras, Hand of Ragnaros",
+      "sellIn": -1,
+      "quality": 80
+    },
+    {
+      "id": 6,
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "sellIn": 15,
+      "quality": 20
+    },
+    {
+      "id": 7,
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "sellIn": 10,
+      "quality": 49
+    },
+    {
+      "id": 8,
+      "name": "Backstage passes to a TAFKAL80ETC concert",
+      "sellIn": 5,
+      "quality": 49
+    },
+    {
+      "id": 9,
+      "name": "Conjured Mana Cake",
+      "sellIn": 3,
+      "quality": 6
+    }
+  ]
+}
